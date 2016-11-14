@@ -1,0 +1,26 @@
+c++ / g++ 
+c   / gcc 
+python / python
+html / run 
+c# / csc HelloWorld.cs
+
+unity -> prefabs are for reusing objects for next levels and stuff
+
+components: 
+	nav mesh agent lets cpu chars move
+
+UI -> rectTransform
+
+Libraries: 
+	need usingUnityEngine;
+	using UnityEngine.UI;
+
+Input.GetButton("Fire1") --> left click
+
+Edit->project settings->input->predefined inputs and stuff
+
+turning objects on and off .stop(), .play();
+
+TEXT IS IN UI
+
+lowest child object is first rendered
